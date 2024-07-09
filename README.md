@@ -1,9 +1,11 @@
 <h1 display="flex" justify="center" align="center"><b>Hola , Soy Joel Sanchez </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRrYmx2c2llbzEzdXZ4dzd0YXp3b3FveWhuOTdpdWhydDQwN3EyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6Uwu6DFTMfqhi/giphy.gif" width="50"></h1>
 <!--  -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?    
-  font=Roboto&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Mecatronico+..&hearts;++;Programador+de+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source.">
-</div>
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?    
+    font=Roboto&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Mecatronico+..&hearts;++;Programador+de+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source.">
+  </a>
+</p>
 
 
 <!--
