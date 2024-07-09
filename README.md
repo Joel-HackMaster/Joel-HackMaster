@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , Soy Joel Sanchez </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUyZXd6cGZ4NjY2eGNkYnVvNzFwMGVxZjA4Y2RiN2EwdXY1NXA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lMZG968WfKZrTFaDtU/giphy.gif" width="35"></h1>
+<h1 display="flex" justify="center" align="center"><b>Hola , Soy Joel Sanchez </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRrYmx2c2llbzEzdXZ4dzd0YXp3b3FveWhuOTdpdWhydDQwN3EyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6Uwu6DFTMfqhi/giphy.gif" width="75"></h1>
 
 <!--
 **Joel-HackMaster/Joel-HackMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
