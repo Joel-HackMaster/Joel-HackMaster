@@ -24,6 +24,7 @@ Soy un apasionado por el desarrollo de software, realizo aplicaciones en python 
 
   ### Habilidades:
   [![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,aws&perline=9)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=redis,docker,kafka,postgres&perline=9)](https://skillicons.dev)
 
   ### Software y herramientas:
   [![My Skills](https://skillicons.dev/icons?i=django,react,angular,vscode,pycharm,opencv&perline=9)](https://skillicons.dev)
