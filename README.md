@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dvbDJ5MWgxb2xkb3k4Y2Z1bWR4bnpkeDd0MzM1dnJheDNkY3JjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif" width = 50px></picture> **Sobre mi**
 
-Soy un apasionado por el desarrollo de software, realizo aplicaciones en java, python y react entusiasta de las aplicaciones en microservicios.
+Soy un apasionado por el desarrollo de software, realizo aplicaciones en java, python y react, entusiasta de las aplicaciones realizadas en microservicios.
 
 ## Habilidades y lenguajes:
 
